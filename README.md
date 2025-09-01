@@ -25,9 +25,7 @@ Open the project folder.
 
 Run index.html in your browser.
 
-📸 Screenshot
 
-(Add your project screenshot here – e.g., calculator.png)
 
 📜 License
 
