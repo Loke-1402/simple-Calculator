@@ -1,4 +1,4 @@
-🧮 Simple Calculator
+🧮 Simple Calculator<br><br>
 📖 Description
 
 A basic calculator built using HTML, CSS, and JavaScript.
